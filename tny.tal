@@ -103,7 +103,7 @@
 	( report ) ( debug )
 	JMP2r
 
-~ins.tal
+~tny-ins.tal
 
 @report ( -- )
 	.ip LDZ #01 SUB DUP print-hex/b #2018 DEO
